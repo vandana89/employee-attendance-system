@@ -94,7 +94,7 @@ employee-attendance-system/
 
 ⚙️ Setup Instructions
 1️⃣ Clone Repository
-git clone <your-repo-link>
+git clone <https://github.com/vandana89/employee-attendance-system>
 cd employee-attendance-system
 
 2️⃣ Backend Setup
