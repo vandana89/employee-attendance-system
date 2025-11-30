@@ -1,3 +1,12 @@
+Name :Boya Vandana
+College Name :Srinivasa Ramanujan Institute Of Technology,Anantapur
+Contact Number:8247435021
+
+
+
+
+
+
 📘 Employee Attendance System
 
 A full-stack attendance tracking system for employees and managers, built using MERN (MongoDB, Express, React, Node.js) with role-based authentication, dashboards, reports, calendar views, and CSV export.
